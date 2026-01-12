@@ -1,7 +1,7 @@
 ---
 title: "Insights for hydrated sulfuric acid on Europa's surface from a combined orbital–experimental approach"
 collection: publications
-permalink: /publication/Insights-for-hydrated-sulfuric-acid-on-Europa
+permalink: /publication/Insights-for-hydrated-sulfuric-acid
 excerpt: ""
 date: 2025-07-01
 venue: "Icarus"
