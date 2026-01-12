@@ -5,13 +5,13 @@ var addressPoints = [
     -95.504686
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons<br />Lunar and Planetary Science Conference 55; The Woodlands, TX",
+    30.1734194,
+    -95.504686
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Constraining possible darkening agents on the surfaces of the icy Galilean moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
+    60.1666204,
+    24.9435408
   ]
 ];
