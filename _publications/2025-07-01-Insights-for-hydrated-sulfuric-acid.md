@@ -2,7 +2,7 @@
 title: "Insights for hydrated sulfuric acid on Europa's surface from a combined orbital–experimental approach"
 collection: publications
 permalink: /publication/Insights-for-hydrated-sulfuric-acid-on-Europa
-excerpt: "Short 1–2 sentence summary."
+excerpt: ""
 date: 2025-07-01
 venue: "Icarus"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0019103525000909"
