@@ -1,6 +1,7 @@
 ---
 title: "Insights for hydrated sulfuric acid on Europa's surface from a combined orbital–experimental approach"
 collection: publications
+category: manuscripts
 permalink: /publication/insights-hydrated-sulfuric-acid-europa
 excerpt: ""
 date: 2025-07-01
