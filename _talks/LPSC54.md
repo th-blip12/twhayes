@@ -2,9 +2,9 @@
 title: "The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-03-16-LPSC54
+permalink: /talks/LPSC54
 venue: "Lunar and Planetary Science Conference 54"
-date: 2012-03-16
+date: 2023-03-16
 location: "The Woodlands, TX"
 ---
 
