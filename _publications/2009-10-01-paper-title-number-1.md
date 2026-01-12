@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1016/j.icarus.2025.116543
 excerpt: ''
-date: July 2025
+date: 2025-07
 venue: 'Icarus'
 slidesurl: ''
 paperurl: ''
