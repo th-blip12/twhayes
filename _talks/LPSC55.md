@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/LPSC55
+venue: "Lunar and Planetary Science Conference"
+date: 2025-13-03
+location: "The Woodlands, TX"
 ---
 
 [More information here](http://example2.com)
