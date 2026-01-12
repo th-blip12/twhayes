@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "The Anomalous Dichotomy in the 1.65 \u03bcm Water Ice Feature Between Europa's Leading and Trailing Hemispheres<br />Lunar and Planetary Science Conference 54; The Woodlands, TX",
+    30.1734194,
+    -95.504686
+  ],
+  [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
@@ -8,11 +13,6 @@ var addressPoints = [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
-  ],
-  [
-    "The Anomalous Dichotomy in the 1.65 \u03bcm Water Ice Feature Between Europa's Leading and Trailing Hemispheres<br />Lunar and Planetary Science Conference 54; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
