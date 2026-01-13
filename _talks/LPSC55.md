@@ -1,5 +1,5 @@
 ---
-title: "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons"
+title: "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons*"
 collection: talks
 type: "Talk"
 permalink: /talks/LPSC55
