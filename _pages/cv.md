@@ -26,8 +26,8 @@ Research Experience
   * Working with Dr. Frank Postberg and colleagues to study the influence of surface topography on ejected particles in preparation for Europa Clipper's SUDA instrument.
   * Using MATLAB to model ballistic trajectories of particles in a dust exosphere around Europa through which a dummy SUDA sensor flies; main goals are to facilitate more accurate model production with actual SUDA data. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Post-Baccalaureate Researcher, Center for Research and Exploration in Space Sciences, NASA Goddard Space Flight Center
+  * Using MATLAB to apply machine learning for automated recogniction of spectral features in Cassini's Composite Infrared Spectrometer (CIRS).
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
