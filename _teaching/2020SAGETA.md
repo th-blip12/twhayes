@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate/Graduate Summer Program"
 permalink: /teaching/2020SAGETA
 venue: "Summer of Applied Geophysical Experience, Valles Caldera"
-date: 2019-01-10
+date: 2020-06-01
 location: "Los Alamos, NM"
 ---
