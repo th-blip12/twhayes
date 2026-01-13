@@ -5,6 +5,11 @@ var addressPoints = [
     -95.504686
   ],
   [
+    "Near-surface Hydrologic Investigations of Pleistocene lakes within the Valles Caldera, New Mexico<br />AGU 100 - Fall Meeting 2019; San Francisco, CA",
+    37.7879363,
+    -122.4075201
+  ],
+  [
     "The Effect of Jupiter's Radiation on Altering Europa's Surface Composition<br />Lunar and Planetary Science Conference 55; The Woodlands, TX",
     30.1734194,
     -95.504686
