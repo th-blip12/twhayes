@@ -1,5 +1,5 @@
 ---
-title: "The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres*"
+title: "The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres"
 collection: talks
 type: "Talk"
 permalink: /talks/LPSC54
@@ -8,7 +8,7 @@ date: 2023-03-16
 location: "The Woodlands, TX"
 ---
 
-Authors: Tanner Hayes and Shuai Li
+Authors: Tanner Hayes* and Shuai Li
 
 Hayes, T. W., & Li, S. (2023, March). The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres. In 54th Lunar and Planetary Science Conference (Vol. 2806, p. 1901).
 
