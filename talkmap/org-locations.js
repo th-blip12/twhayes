@@ -18,5 +18,10 @@ var addressPoints = [
     "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
     60.1666204,
     24.9435408
+  ],
+  [
+    "Laboratory VNIR\u2013MIR Reflectance Spectra of CO2 Ice Mixtures for Constraining CO2 Abundance on Rocky and Icy Bodies<br />Lunar Polar Volatiles Conference 2025; Honolulu, HI",
+    21.304547,
+    -157.855676
   ]
 ];
