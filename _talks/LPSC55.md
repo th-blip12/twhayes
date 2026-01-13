@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Jupiter's Radiation on Altering Europa's Surface Composition*"
+title: "The Effect of Jupiter's Radiation on Altering Europa's Surface Composition"
 collection: talks
 type: "Poster"
 permalink: /talks/LPSC55
