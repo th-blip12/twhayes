@@ -1,5 +1,5 @@
 ---
-title: "An Investigation of Space Weathering on the Moon with Mineralogy and Hydroxyl*"
+title: "An Investigation of Space Weathering on the Moon with Mineralogy and Hydroxyl"
 collection: talks
 type: "Poster"
 permalink: /talks/LPSC52
