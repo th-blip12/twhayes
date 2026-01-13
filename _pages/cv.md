@@ -24,8 +24,7 @@ Research Experience
 
 * Fulbright Research Fellow, Freie Universität Berlin (2022)
   * Working with Dr. Frank Postberg and colleagues to study the influence of surface topography on ejected particles in preparation for Europa Clipper's SUDA instrument.
-  * Using MATLAB to model a dust exosphere around Europa through which a dummy SUDA sensor flies, including dust particle encounter rate, inferred trajectory from charge, and satellite-to-surface mapping from encountered particles. 
-  * Supervisor: Professor Hub
+  * Using MATLAB to model ballistic trajectories of particles in a dust exosphere around Europa through which a dummy SUDA sensor flies; main goals are to facilitate more accurate model production with actual SUDA data. 
 
 * Summer 2015: Research Assistant
   * GitHub University
