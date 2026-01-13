@@ -11,3 +11,5 @@ location: "The Woodlands, TX"
 Authors: Tanner Hayes and Shuai Li
 
 Hayes, T. W., & Li, S. (2023, March). The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres. In 54th Lunar and Planetary Science Conference (Vol. 2806, p. 1901).
+
+[Link to Abstract](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1901.pdf)
