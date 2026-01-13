@@ -2,8 +2,8 @@
 title: "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons"
 collection: talks
 type: "Talk"
-permalink: /talks/LPSC55
-venue: "Lunar and Planetary Science Conference 55"
+permalink: /talks/LPSC56
+venue: "Lunar and Planetary Science Conference 56"
 date: 2025-03-13
 location: "The Woodlands, TX"
 ---
