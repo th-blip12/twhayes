@@ -1,5 +1,5 @@
 ---
-title: "The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres"
+title: "The Anomalous Dichotomy in the 1.65 μm Water Ice Feature Between Europa's Leading and Trailing Hemispheres*"
 collection: talks
 type: "Talk"
 permalink: /talks/LPSC54
