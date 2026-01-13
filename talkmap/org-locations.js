@@ -5,11 +5,6 @@ var addressPoints = [
     -95.504686
   ],
   [
-    "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons<br />Lunar and Planetary Science Conference 55; The Woodlands, TX",
-    30.1734194,
-    -95.504686
-  ],
-  [
     "Investigating an Ocean World One Snow Cone at a Time*<br />ARCS Scholar Symposium 2025; Honolulu, HI",
     21.304547,
     -157.855676
@@ -18,6 +13,11 @@ var addressPoints = [
     "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
     60.1666204,
     24.9435408
+  ],
+  [
+    "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons<br />Lunar and Planetary Science Conference 56; The Woodlands, TX",
+    30.1734194,
+    -95.504686
   ],
   [
     "Laboratory VNIR\u2013MIR Reflectance Spectra of CO2 Ice Mixtures for Constraining CO2 Abundance on Rocky and Icy Bodies<br />Lunar Polar Volatiles Conference 2025; Honolulu, HI",
