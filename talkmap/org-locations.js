@@ -5,6 +5,11 @@ var addressPoints = [
     -95.504686
   ],
   [
+    "The Effect of Jupiter's Radiation on Altering Europa's Surface Composition*<br />Lunar and Planetary Science Conference 55; The Woodlands, TX",
+    30.1734194,
+    -95.504686
+  ],
+  [
     "Investigating an Ocean World One Snow Cone at a Time*<br />ARCS Scholar Symposium 2025; Honolulu, HI",
     21.304547,
     -157.855676
