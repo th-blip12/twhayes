@@ -15,16 +15,16 @@ Education
 * M.S. in Earth and Planetary Sciences, University of Hawai'i at Manoa, 2024
 * B.S. in Geophysics, University of Nevada, Reno, 2020
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Assistant, Hawai'i Institute of Geophysics and Planetology (2022 - Current)
+  * Working with Dr. Shuai Li to study surfaces of the Galilean moons and other airless bodies via VNIR reflectance spectroscopy.
+  * Preparation of surface analogs (e.g. particulate mixed media of various ices, melted surfaces for specular scattering, and long-term heat treatment of samples to track changes due to thermal diffusivity)
+  * Testing laboratory analogs against linear and radiative transfer modeling results. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* Fulbright Research Fellow, Freie Universität Berlin (2022)
+  * Working with Dr. Frank Postberg and colleagues to study the influence of surface topography on ejected particles in preparation for Europa Clipper's SUDA instrument.
+  * Using MATLAB to model a dust exosphere around Europa through which a dummy SUDA sensor flies, including dust particle encounter rate, inferred trajectory from charge, and satellite-to-surface mapping from encountered particles. 
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
