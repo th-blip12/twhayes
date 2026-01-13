@@ -25,12 +25,18 @@ Research Experience
 * Fulbright Research Fellow, Freie Universität Berlin (2022)
   * Working with Dr. Frank Postberg and colleagues to study the influence of surface topography on ejected particles in preparation for Europa Clipper's SUDA instrument.
   * Using MATLAB to model ballistic trajectories of particles in a dust exosphere around Europa through which a dummy SUDA sensor flies; main goals are to facilitate more accurate model production with actual SUDA data. 
-===
-* Post-Baccalaureate Researcher, Center for Research and Exploration in Space Sciences, NASA Goddard Space Flight Center
+
+* Post-Baccalaureate Researcher, Center for Research and Exploration in Space Sciences, NASA Goddard Space Flight Center (2020 - 2021)
   * Using MATLAB to apply machine learning for automated recogniction of spectral features in Cassini's Composite Infrared Spectrometer (CIRS).
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-===  
+
+* Planetary Science Intern, NASA Goddard Space Flight Center (2020)
+  * Using MATLAB for development of an ingestion, display, and quick clustering analysis for Cassini CIRS data.
+  * Application of 2019 research to the much noisier CIRS dataset.
+ 
+* Planetary Science Intern, NASA Langley Research Center (2019)
+  * Working with Cindy Young to develop a proof-of-concept machine learning algorithm for spectral feature identification fo Cassini's Visible and Infrared Mapping Spectrometer (VIMS)
+  * Classified spectral features into groups based on band-depth and shape. 
+
 Skills
 ======
 * Skill 1
