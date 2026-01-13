@@ -33,6 +33,9 @@ Research Experience
   * Using MATLAB for development of an ingestion, display, and quick clustering analysis for Cassini CIRS data.
   * Application of 2019 research to the much noisier CIRS dataset.
  
+* Green Geophysics Technician (2020) 
+   * Part of the team responsible for the installation and extraction of magnetotelluric and transient magnetic surveys in Nevada for University of Oregon’s EarthScope electromagnetic array.
+  
 * Planetary Science Intern, NASA Langley Research Center (2019)
   * Working with Cindy Young to develop a proof-of-concept machine learning algorithm for spectral feature identification fo Cassini's Visible and Infrared Mapping Spectrometer (VIMS)
   * Classified spectral features into groups based on band-depth and shape.
