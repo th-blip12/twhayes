@@ -35,7 +35,10 @@ Research Experience
  
 * Planetary Science Intern, NASA Langley Research Center (2019)
   * Working with Cindy Young to develop a proof-of-concept machine learning algorithm for spectral feature identification fo Cassini's Visible and Infrared Mapping Spectrometer (VIMS)
-  * Classified spectral features into groups based on band-depth and shape. 
+  * Classified spectral features into groups based on band-depth and shape.
+ 
+* Center for Neotectonic Studies Intern, University of Nevada, Reno (2018)
+  * Developer and organizer of new western US aerial photogrammetry database.  
 
 Skills
 ======
