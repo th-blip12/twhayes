@@ -15,7 +15,7 @@ var addressPoints = [
     -157.855676
   ],
   [
-    "Constraining possible darkening agents on the surfaces of the icy Galilean moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
+    "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
     60.1666204,
     24.9435408
   ]
