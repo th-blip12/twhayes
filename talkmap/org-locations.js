@@ -20,6 +20,11 @@ var addressPoints = [
     24.9435408
   ],
   [
+    "An Investigation of Space Weathering on the Moon with Mineralogy and Hydroxyl*<br />Lunar and Planetary Science Conference 52; The Woodlands, TX",
+    30.1734194,
+    -95.504686
+  ],
+  [
     "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons<br />Lunar and Planetary Science Conference 56; The Woodlands, TX",
     30.1734194,
     -95.504686
