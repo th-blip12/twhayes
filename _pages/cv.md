@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Candidate in Earth and Planetary Sciences (Expected Graduation: Fall 2026)
+* M.S. in Earth and Planetary Sciences, University of Hawai'i at Manoa, 2024
+* B.S. in Geophysics, University of Nevada, Reno, 2020
 
 Work experience
 ======
