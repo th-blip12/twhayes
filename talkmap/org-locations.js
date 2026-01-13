@@ -38,5 +38,10 @@ var addressPoints = [
     "Laboratory VNIR\u2013MIR Reflectance Spectra of CO2 Ice Mixtures for Constraining CO2 Abundance on Rocky and Icy Bodies<br />Lunar Polar Volatiles Conference 2025; Honolulu, HI",
     21.304547,
     -157.855676
+  ],
+  [
+    "Electron Bombardment on Dione: Surface Compositional Effects and Temperature Anomalies<br />Division for Planetary Sciences Meeting 52; Virtual",
+    44.4939936,
+    11.3576917
   ]
 ];
