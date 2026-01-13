@@ -1,5 +1,5 @@
 ---
-title: "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons*"
+title: "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons"
 collection: talks
 type: "Talk"
 permalink: /talks/EPSC-DPS-2025
@@ -8,7 +8,7 @@ date: 2025-09-08
 location: "Helsinki, Finland"
 ---
 
-Authors: Tanner Hayes and Shuai Li
+Authors: Tanner Hayes* and Shuai Li
 
 Hayes, T., & Li, S. (2025). Constraining possible darkening agents on the surfaces of the icy Galilean moons (No. EPSC-DPS2025-1097). Copernicus Meetings.
 
