@@ -1,5 +1,5 @@
 ---
-title: "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons"
+title: "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons*"
 collection: talks
 type: "Talk"
 permalink: /talks/EPSC-DPS-2025
