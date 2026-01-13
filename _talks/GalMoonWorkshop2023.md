@@ -1,5 +1,5 @@
 ---
-title: "Spectral Effects of Exogenic Radiation Products to Europa’s Surface"
+title: "Spectral Effects of Exogenic Radiation Products to Europa’s Surface*"
 collection: talks
 type: "Talk"
 permalink: /talks/GalMoonWorkshop2023
