@@ -20,7 +20,7 @@ var addressPoints = [
     -157.855676
   ],
   [
-    "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons<br />The Europlanet Science Conference - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
+    "Constraining Possible Darkening Agents on the Surfaces of the Icy Galilean Moons<br />The Europlanet Science Congress - Division for Planetary Sciences Joint Meeting 2025; Helsinki, Finland",
     60.1666204,
     24.9435408
   ],
@@ -41,6 +41,11 @@ var addressPoints = [
   ],
   [
     "Electron Bombardment on Dione: Surface Compositional Effects and Temperature Anomalies<br />Division for Planetary Sciences Meeting 52; Virtual",
+    44.4939936,
+    11.3576917
+  ],
+  [
+    "Surface and Topographic Characteristics of Geological Features on Europa and their Effects on Ejecta Particle Dynamics<br />The Europlanet Science Congress 2021; Virtual",
     44.4939936,
     11.3576917
   ]
