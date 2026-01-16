@@ -14,6 +14,7 @@ Education
 * **Ph.D. Candidate in Earth and Planetary Sciences (Expected Graduation: Fall 2026)**
 * **M.S. in Earth and Planetary Sciences, University of Hawai'i at Manoa, (2022-2024)**
 * **B.S. in Geophysics, University of Nevada, Reno, (2016 - 2020)**
+  * Minor in Astronomy  
 
 Research Experience
 ======
