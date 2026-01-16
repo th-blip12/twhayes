@@ -34,8 +34,12 @@ Research Experience
   * Application of 2019 research to the much noisier CIRS dataset.
  
 * Green Geophysics Technician (2020) 
-   * Part of the team responsible for the installation and extraction of magnetotelluric and transient magnetic surveys in Nevada for University of Oregon’s EarthScope electromagnetic array.
-  
+  * Part of the team responsible for the installation and extraction of magnetotelluric and transient magnetic surveys in Nevada for University of Oregon’s EarthScope electromagnetic array.
+ 
+* Summer of Applied Geophysical Experience (SAGE 2019)
+  * Students are tasked to design and complete several geophysical method surveys and present them to industry experts.
+  * Internationally competitive research program.
+    
 * Planetary Science Intern, NASA Langley Research Center (2019)
   * Working with Cindy Young to develop a proof-of-concept machine learning algorithm for spectral feature identification fo Cassini's Visible and Infrared Mapping Spectrometer (VIMS)
   * Classified spectral features into groups based on band-depth and shape.
@@ -43,14 +47,12 @@ Research Experience
 * Center for Neotectonic Studies Intern, University of Nevada, Reno (2018)
   * Developer and organizer of new western US aerial photogrammetry database.  
 
-Skills
+Awards and Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 Honolulu ARCS Scholar, Toby Lee ARCS Award in Earth Sciences
+* 2022 Fred M. Bullard Fellowship
+* 2021 Fulbright Research Scholar to Germany
+  * 1 of ~70 awards given internationally  
 
 Publications
 ======
@@ -58,7 +60,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
