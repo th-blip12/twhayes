@@ -30,6 +30,11 @@ var addressPoints = [
     -95.504686
   ],
   [
+    "The Role of Basalt and Sulfur on the Scattering Properties of Io's Paterae (*Upcoming Oral presentation at LPSC 57)<br />Lunar and Planetary Science Conference 57; The Woodlands, TX",
+    30.1734194,
+    -95.504686
+  ],
+  [
     "Constraining the Abundance of Darkening Agents on the Icy Galilean Moons<br />Lunar and Planetary Science Conference 56; The Woodlands, TX",
     30.1734194,
     -95.504686
