@@ -1,5 +1,5 @@
 ---
-title: "The Role of Basalt and Sulfur on the Scattering Properties of Io's Paterae (*Upcoming Oral presentation at LPSC 57)"
+title: "The Role of Basalt and Sulfur on the Scattering Properties of Io's Paterae"
 collection: talks
 type: "Talk"
 permalink: /talks/LPSC57
