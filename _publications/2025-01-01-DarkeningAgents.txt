@@ -1,11 +1,11 @@
 ---
-title: "Darkening Agents on the Surfaces of the Icy Galilean Moons (in prep)"
+title: "Experimental constraints on the abundance and speciation of darkening agents on the surfaces of the icy Galilean moons (Submitted)"
 collection: publications
 category: manuscripts
 permalink: /publication/darkening-agents
 excerpt: ""
-date: TBD
-venue: "TBD"
+date: 2026
+venue: "Icarus"
 paperurl: 
 citation: 
 ---
